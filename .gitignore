@@ -1,0 +1,22 @@
+# Ignore datasets and large folders
+archive (1)/
+38-Cloud_training/
+38-Cloud_test/
+38-Cloud_Training_Metadata_Files/
+38-Cloud_95-Cloud_Test_Metadata_Files/
+
+# Ignore Jupyter stuff
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+venv/
+env/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
