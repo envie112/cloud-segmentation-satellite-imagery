@@ -1,4 +1,5 @@
 ☁️ Cloud Segmentation from Satellite Imagery
+
 📌 Overview
 
 This project implements a pixel-wise cloud segmentation pipeline on Landsat-8 satellite imagery using the 38-Cloud dataset. The goal is to accurately classify satellite image patches into clear, partly cloudy, and cloudy categories to improve downstream satellite image analysis and automation tasks.
